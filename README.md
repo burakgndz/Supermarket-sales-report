@@ -11,6 +11,6 @@ In this project, Kaggle's supermarket sales dataset is used. The aim is to under
 <li> The sales distribution across different product categories is more balanced in Mandalay, with no category showing extreme dominance or lack, which might reflect a diverse consumer base with varied interests.</li>
 </ul>
 
-#### <a href= "https://lookerstudio.google.com/reporting/4b841d06-cef7-41f4-83ae-a873eae9831a/page/XKqpD">Report Link</a> 
+#### <a href= "https://lookerstudio.google.com/reporting/4b841d06-cef7-41f4-83ae-a873eae9831a/page/XKqpD">Interactive Report Link</a> 
 
 
